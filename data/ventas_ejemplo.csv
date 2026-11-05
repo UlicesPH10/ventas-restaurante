@@ -1,0 +1,340 @@
+fecha_hora,platillo,cantidad,precio
+2026-10-01 11:47,Chilaquiles verdes,1,95.00
+2026-10-01 12:04,Tacos al pastor,1,25.50
+2026-10-01 13:05,Enchiladas suizas,1,120.00
+2026-10-01 13:16,Agua de jamaica,2,30.00
+2026-10-01 14:01,Mole poblano,2,135.00
+2026-10-01 14:17,Tacos de suadero,4,24.00
+2026-10-01 14:59,Enchiladas suizas,2,120.00
+2026-10-01 15:02,Tacos al pastor,1,25.50
+2026-10-01 18:26,Quesadillas de flor de calabaza,2,55.00
+2026-10-01 18:43,Agua de horchata,2,30.00
+2026-10-01 19:00,Agua de jamaica,1,30.00
+2026-10-01 19:39,Refresco,1,28.00
+2026-10-02 12:47,Mole poblano,1,135.00
+2026-10-02 13:17,Tacos al pastor,3,25.50
+2026-10-02 13:29,Enchiladas suizas,4,120.00
+2026-10-02 13:40,Refresco,1,28.00
+2026-10-02 13:42,Chilaquiles verdes,4,95.00
+2026-10-02 14:58,Agua de horchata,1,30.00
+2026-10-02 15:45,Chilaquiles verdes,2,95.00
+2026-10-02 15:57,Mole poblano,1,135.00
+2026-10-02 16:35,Quesadillas de flor de calabaza,1,55.00
+2026-10-02 16:38,Cochinita pibil,2,125.00
+2026-10-02 19:03,Quesadillas de flor de calabaza,1,55.00
+2026-10-02 22:08,Torta de milanesa,1,85.00
+2026-10-02 22:54,Quesadillas de flor de calabaza,1,55.00
+2026-10-03 09:46,Tacos al pastor,3,25.50
+2026-10-03 11:40,Chilaquiles verdes,2,95.00
+2026-10-03 13:01,Tacos al pastor,1,25.50
+2026-10-03 14:04,Enchiladas suizas,2,120.00
+2026-10-03 14:16,Cafe de olla,3,35.00
+2026-10-03 14:29,Tacos al pastor,2,25.50
+2026-10-03 15:09,Enchiladas suizas,1,120.00
+2026-10-03 18:32,Agua de jamaica,2,30.00
+2026-10-03 19:49,Agua de horchata,1,30.00
+2026-10-03 20:09,Cochinita pibil,3,125.00
+2026-10-03 21:59,Sopa de tortilla,1,70.00
+2026-10-04 11:31,Agua de jamaica,4,30.00
+2026-10-04 12:19,Enchiladas suizas,2,120.00
+2026-10-04 12:21,Tacos al pastor,2,25.50
+2026-10-04 12:59,Refresco,2,28.00
+2026-10-04 13:15,Refresco,4,28.00
+2026-10-04 13:30,Agua de jamaica,1,30.00
+2026-10-04 13:57,Tacos al pastor,1,25.50
+2026-10-04 13:57,Torta de milanesa,1,85.00
+2026-10-04 14:08,Tacos al pastor,2,25.50
+2026-10-04 14:17,Agua de horchata,1,30.00
+2026-10-04 15:00,Tacos al pastor,2,25.50
+2026-10-04 15:16,Sopa de tortilla,2,70.00
+2026-10-04 21:59,Sopa de tortilla,2,70.00
+2026-10-05 10:46,Enchiladas suizas,3,120.00
+2026-10-05 12:29,Quesadillas de flor de calabaza,4,55.00
+2026-10-05 13:12,Sopa de tortilla,1,70.00
+2026-10-05 14:55,Refresco,1,28.00
+2026-10-05 16:22,Pozole rojo,2,110.00
+2026-10-05 16:34,Refresco,4,28.00
+2026-10-05 18:43,Agua de horchata,2,30.00
+2026-10-06 10:37,Torta de milanesa,4,85.00
+2026-10-06 10:47,Sopa de tortilla,2,70.00
+2026-10-06 12:31,Torta de milanesa,3,85.00
+2026-10-06 13:50,Agua de jamaica,1,30.00
+2026-10-06 14:03,Cafe de olla,1,35.00
+2026-10-06 18:09,Tacos de suadero,1,24.00
+2026-10-06 18:46,Cafe de olla,2,35.00
+2026-10-06 20:10,Enchiladas suizas,4,120.00
+2026-10-07 09:39,Cafe de olla,4,35.00
+2026-10-07 10:04,Agua de horchata,1,30.00
+2026-10-07 10:05,Pozole rojo,2,110.00
+2026-10-07 10:13,Torta de milanesa,1,85.00
+2026-10-07 11:56,Mole poblano,2,135.00
+2026-10-07 13:16,Enchiladas suizas,2,120.00
+2026-10-07 13:20,Flan napolitano,4,45.00
+2026-10-07 14:59,Quesadillas de flor de calabaza,2,55.00
+2026-10-08 12:07,Refresco,2,28.00
+2026-10-08 12:18,Cochinita pibil,2,125.00
+2026-10-08 12:40,Refresco,2,28.00
+2026-10-08 13:58,Refresco,1,28.00
+2026-10-08 14:17,Tacos al pastor,1,25.50
+2026-10-08 14:34,Agua de horchata,2,30.00
+2026-10-08 15:59,Agua de horchata,4,30.00
+2026-10-08 20:56,Quesadillas de flor de calabaza,1,55.00
+2026-10-08 22:41,Sopa de tortilla,2,70.00
+2026-10-09 09:47,Flan napolitano,3,45.00
+2026-10-09 10:22,Tacos de suadero,1,24.00
+2026-10-09 11:49,Sopa de tortilla,3,70.00
+2026-10-09 13:35,Tacos de suadero,1,24.00
+2026-10-09 13:50,Agua de horchata,1,30.00
+2026-10-09 13:57,Flan napolitano,4,45.00
+2026-10-09 14:42,Refresco,3,28.00
+2026-10-09 16:16,Tacos de suadero,2,24.00
+2026-10-09 18:35,Tacos al pastor,1,25.50
+2026-10-09 20:51,Agua de jamaica,3,30.00
+2026-10-09 20:57,Tacos de suadero,1,24.00
+2026-10-09 21:47,Tacos de suadero,4,24.00
+2026-10-10 09:12,Enchiladas suizas,1,120.00
+2026-10-10 10:49,Chilaquiles verdes,2,95.00
+2026-10-10 11:16,Tacos de suadero,4,24.00
+2026-10-10 13:06,Mole poblano,1,135.00
+2026-10-10 13:36,Tacos de suadero,1,24.00
+2026-10-10 13:52,Agua de jamaica,1,30.00
+2026-10-10 14:33,Flan napolitano,2,45.00
+2026-10-10 14:53,Sopa de tortilla,4,70.00
+2026-10-10 18:47,Agua de horchata,1,30.00
+2026-10-10 19:27,Cochinita pibil,2,125.00
+2026-10-10 20:14,Tacos de suadero,4,24.00
+2026-10-11 10:42,Flan napolitano,2,45.00
+2026-10-11 13:26,Chilaquiles verdes,2,95.00
+2026-10-11 13:42,Cochinita pibil,1,125.00
+2026-10-11 14:37,Cochinita pibil,1,125.00
+2026-10-11 14:43,Quesadillas de flor de calabaza,2,55.00
+2026-10-11 14:53,Tacos al pastor,1,25.50
+2026-10-11 14:54,Agua de jamaica,2,30.00
+2026-10-11 15:12,Pozole rojo,4,110.00
+2026-10-11 17:07,Agua de horchata,1,30.00
+2026-10-11 17:57,Tacos de suadero,2,24.00
+2026-10-11 19:09,Tacos al pastor,1,25.50
+2026-10-11 19:48,Quesadillas de flor de calabaza,1,55.00
+2026-10-11 20:36,Tacos de suadero,2,24.00
+2026-10-11 20:50,Agua de horchata,2,30.00
+2026-10-12 10:15,Refresco,1,28.00
+2026-10-12 12:29,Agua de horchata,4,30.00
+2026-10-12 12:51,Cafe de olla,2,35.00
+2026-10-12 13:15,Refresco,1,28.00
+2026-10-12 14:09,Agua de horchata,1,30.00
+2026-10-12 14:10,Agua de horchata,2,30.00
+2026-10-12 15:48,Refresco,2,28.00
+2026-10-12 18:32,Pozole rojo,3,110.00
+2026-10-12 19:31,Cochinita pibil,1,125.00
+2026-10-12 19:49,Refresco,3,28.00
+2026-10-13 12:13,Tacos al pastor,1,25.50
+2026-10-13 14:08,Tacos de suadero,1,24.00
+2026-10-13 14:26,Tacos al pastor,3,25.50
+2026-10-13 14:49,Mole poblano,2,135.00
+2026-10-13 18:15,Chilaquiles verdes,1,95.00
+2026-10-13 20:48,Mole poblano,2,135.00
+2026-10-13 21:19,Agua de jamaica,3,30.00
+2026-10-14 09:34,Tacos al pastor,4,25.50
+2026-10-14 09:41,Pozole rojo,3,110.00
+2026-10-14 12:14,Chilaquiles verdes,2,95.00
+2026-10-14 12:16,Enchiladas suizas,1,120.00
+2026-10-14 12:29,Refresco,4,28.00
+2026-10-14 13:48,Refresco,1,28.00
+2026-10-14 14:42,Agua de horchata,1,30.00
+2026-10-14 14:47,Sopa de tortilla,2,70.00
+2026-10-14 14:58,Enchiladas suizas,2,120.00
+2026-10-14 21:26,Quesadillas de flor de calabaza,1,55.00
+2026-10-15 09:15,Tacos de suadero,1,24.00
+2026-10-15 09:19,Mole poblano,3,135.00
+2026-10-15 12:08,Torta de milanesa,1,85.00
+2026-10-15 12:38,Cafe de olla,2,35.00
+2026-10-15 13:45,Tacos de suadero,2,24.00
+2026-10-15 16:49,Cafe de olla,1,35.00
+2026-10-15 19:10,Cafe de olla,1,35.00
+2026-10-15 21:29,Agua de horchata,3,30.00
+2026-10-16 10:34,Pozole rojo,1,110.00
+2026-10-16 11:56,Pozole rojo,3,110.00
+2026-10-16 13:00,Torta de milanesa,1,85.00
+2026-10-16 13:17,Refresco,2,28.00
+2026-10-16 13:26,Torta de milanesa,3,85.00
+2026-10-16 13:44,Agua de jamaica,3,30.00
+2026-10-16 14:21,Tacos al pastor,2,25.50
+2026-10-16 14:27,Cafe de olla,2,35.00
+2026-10-16 14:30,Pozole rojo,3,110.00
+2026-10-16 14:41,Chilaquiles verdes,3,95.00
+2026-10-16 15:07,Agua de jamaica,2,30.00
+2026-10-16 15:20,Refresco,3,28.00
+2026-10-16 15:42,Enchiladas suizas,1,120.00
+2026-10-16 17:41,Agua de horchata,2,30.00
+2026-10-16 19:45,Tacos de suadero,1,24.00
+2026-10-16 20:11,Torta de milanesa,1,85.00
+2026-10-17 11:12,Chilaquiles verdes,1,95.00
+2026-10-17 11:14,Pozole rojo,1,110.00
+2026-10-17 12:07,Agua de horchata,4,30.00
+2026-10-17 13:45,Sopa de tortilla,1,70.00
+2026-10-17 14:19,Quesadillas de flor de calabaza,1,55.00
+2026-10-17 14:47,Sopa de tortilla,1,70.00
+2026-10-17 16:48,Torta de milanesa,3,85.00
+2026-10-17 17:12,Quesadillas de flor de calabaza,2,55.00
+2026-10-17 17:23,Torta de milanesa,2,85.00
+2026-10-17 18:48,Sopa de tortilla,1,70.00
+2026-10-17 21:35,Chilaquiles verdes,4,95.00
+2026-10-18 10:55,Torta de milanesa,3,85.00
+2026-10-18 12:07,Sopa de tortilla,2,70.00
+2026-10-18 12:26,Pozole rojo,2,110.00
+2026-10-18 12:51,Mole poblano,1,135.00
+2026-10-18 13:14,Chilaquiles verdes,1,95.00
+2026-10-18 13:30,Pozole rojo,1,110.00
+2026-10-18 14:04,Mole poblano,2,135.00
+2026-10-18 14:28,Chilaquiles verdes,2,95.00
+2026-10-18 14:36,Cochinita pibil,2,125.00
+2026-10-18 15:39,Quesadillas de flor de calabaza,2,55.00
+2026-10-18 16:10,Quesadillas de flor de calabaza,2,55.00
+2026-10-18 18:48,Tacos de suadero,1,24.00
+2026-10-18 19:40,Mole poblano,3,135.00
+2026-10-18 20:04,Agua de horchata,4,30.00
+2026-10-18 22:07,Sopa de tortilla,1,70.00
+2026-10-19 09:14,Cafe de olla,3,35.00
+2026-10-19 10:27,Agua de horchata,2,30.00
+2026-10-19 11:44,Chilaquiles verdes,1,95.00
+2026-10-19 13:02,Agua de jamaica,1,30.00
+2026-10-19 13:34,Torta de milanesa,1,85.00
+2026-10-19 14:28,Refresco,1,28.00
+2026-10-19 15:01,Cafe de olla,2,35.00
+2026-10-19 15:52,Mole poblano,1,135.00
+2026-10-19 19:04,Tacos al pastor,3,25.50
+2026-10-20 10:17,Sopa de tortilla,4,70.00
+2026-10-20 11:16,Chilaquiles verdes,4,95.00
+2026-10-20 12:26,Agua de horchata,1,30.00
+2026-10-20 13:21,Chilaquiles verdes,1,95.00
+2026-10-20 13:48,Torta de milanesa,2,85.00
+2026-10-20 14:32,Agua de jamaica,1,30.00
+2026-10-20 14:44,Torta de milanesa,1,85.00
+2026-10-20 14:52,Torta de milanesa,1,85.00
+2026-10-20 16:51,Quesadillas de flor de calabaza,1,55.00
+2026-10-20 20:29,Pozole rojo,1,110.00
+2026-10-20 21:52,Agua de jamaica,1,30.00
+2026-10-21 09:26,Tacos al pastor,4,25.50
+2026-10-21 12:34,Torta de milanesa,1,85.00
+2026-10-21 12:59,Agua de horchata,2,30.00
+2026-10-21 13:53,Torta de milanesa,2,85.00
+2026-10-21 14:09,Enchiladas suizas,4,120.00
+2026-10-21 14:52,Tacos al pastor,2,25.50
+2026-10-21 14:56,Tacos de suadero,1,24.00
+2026-10-21 19:24,Pozole rojo,1,110.00
+2026-10-21 19:37,Cafe de olla,2,35.00
+2026-10-21 19:54,Pozole rojo,4,110.00
+2026-10-21 20:29,Cafe de olla,2,35.00
+2026-10-22 10:50,Cafe de olla,1,35.00
+2026-10-22 14:37,Chilaquiles verdes,1,95.00
+2026-10-22 18:26,Refresco,4,28.00
+2026-10-22 19:02,Chilaquiles verdes,2,95.00
+2026-10-22 19:09,Torta de milanesa,1,85.00
+2026-10-22 20:06,Sopa de tortilla,2,70.00
+2026-10-22 20:24,Enchiladas suizas,2,120.00
+2026-10-22 21:15,Mole poblano,1,135.00
+2026-10-23 10:40,Agua de horchata,1,30.00
+2026-10-23 10:55,Enchiladas suizas,2,120.00
+2026-10-23 12:24,Refresco,1,28.00
+2026-10-23 13:01,Tacos al pastor,3,25.50
+2026-10-23 13:05,Pozole rojo,1,110.00
+2026-10-23 13:16,Agua de horchata,3,30.00
+2026-10-23 13:23,Pozole rojo,1,110.00
+2026-10-23 14:05,Refresco,3,28.00
+2026-10-23 14:18,Agua de horchata,1,30.00
+2026-10-23 14:22,Cafe de olla,1,35.00
+2026-10-23 14:37,Tacos de suadero,2,24.00
+2026-10-23 14:43,Agua de jamaica,1,30.00
+2026-10-23 16:55,Tacos al pastor,1,25.50
+2026-10-23 20:24,Cafe de olla,2,35.00
+2026-10-23 20:31,Refresco,1,28.00
+2026-10-23 21:44,Quesadillas de flor de calabaza,3,55.00
+2026-10-24 09:53,Agua de horchata,1,30.00
+2026-10-24 11:40,Agua de horchata,1,30.00
+2026-10-24 12:12,Cochinita pibil,2,125.00
+2026-10-24 12:34,Refresco,1,28.00
+2026-10-24 13:51,Quesadillas de flor de calabaza,3,55.00
+2026-10-24 14:17,Refresco,1,28.00
+2026-10-24 14:37,Enchiladas suizas,1,120.00
+2026-10-24 15:36,Chilaquiles verdes,2,95.00
+2026-10-24 15:43,Agua de jamaica,4,30.00
+2026-10-24 18:42,Agua de horchata,1,30.00
+2026-10-24 19:30,Cafe de olla,1,35.00
+2026-10-24 20:20,Agua de jamaica,1,30.00
+2026-10-24 20:47,Torta de milanesa,3,85.00
+2026-10-24 20:51,Tacos al pastor,4,25.50
+2026-10-25 09:56,Flan napolitano,1,45.00
+2026-10-25 10:02,Chilaquiles verdes,2,95.00
+2026-10-25 11:56,Sopa de tortilla,1,70.00
+2026-10-25 13:47,Agua de horchata,2,30.00
+2026-10-25 13:47,Agua de horchata,2,30.00
+2026-10-25 15:41,Tacos al pastor,3,25.50
+2026-10-25 15:46,Tacos de suadero,1,24.00
+2026-10-25 19:00,Quesadillas de flor de calabaza,1,55.00
+2026-10-25 19:14,Refresco,2,28.00
+2026-10-25 19:23,Tacos al pastor,1,25.50
+2026-10-25 20:19,Agua de horchata,1,30.00
+2026-10-25 21:54,Agua de jamaica,1,30.00
+2026-10-26 09:50,Enchiladas suizas,4,120.00
+2026-10-26 10:23,Quesadillas de flor de calabaza,2,55.00
+2026-10-26 11:13,Agua de horchata,2,30.00
+2026-10-26 12:07,Cafe de olla,3,35.00
+2026-10-26 13:23,Tacos al pastor,2,25.50
+2026-10-26 14:41,Enchiladas suizas,1,120.00
+2026-10-26 19:39,Pozole rojo,4,110.00
+2026-10-27 10:50,Refresco,2,28.00
+2026-10-27 11:55,Tacos al pastor,1,25.50
+2026-10-27 12:08,Sopa de tortilla,3,70.00
+2026-10-27 12:53,Agua de jamaica,1,30.00
+2026-10-27 12:55,Quesadillas de flor de calabaza,3,55.00
+2026-10-27 13:08,Agua de horchata,2,30.00
+2026-10-27 13:41,Cafe de olla,1,35.00
+2026-10-27 15:28,Torta de milanesa,4,85.00
+2026-10-27 19:15,Mole poblano,1,135.00
+2026-10-27 19:30,Pozole rojo,1,110.00
+2026-10-27 19:38,Tacos al pastor,3,25.50
+2026-10-28 12:08,Chilaquiles verdes,2,95.00
+2026-10-28 13:09,Agua de horchata,2,30.00
+2026-10-28 13:21,Refresco,1,28.00
+2026-10-28 13:32,Cochinita pibil,1,125.00
+2026-10-28 14:20,Enchiladas suizas,2,120.00
+2026-10-28 15:55,Quesadillas de flor de calabaza,2,55.00
+2026-10-28 18:20,Pozole rojo,2,110.00
+2026-10-28 18:54,Agua de horchata,3,30.00
+2026-10-28 20:04,Refresco,1,28.00
+2026-10-28 20:27,Agua de horchata,2,30.00
+2026-10-29 10:18,Cochinita pibil,1,125.00
+2026-10-29 13:08,Sopa de tortilla,2,70.00
+2026-10-29 15:13,Tacos de suadero,2,24.00
+2026-10-29 15:21,Agua de horchata,1,30.00
+2026-10-29 19:05,Pozole rojo,2,110.00
+2026-10-29 20:22,Refresco,1,28.00
+2026-10-29 20:48,Pozole rojo,3,110.00
+2026-10-30 09:17,Agua de horchata,1,30.00
+2026-10-30 09:47,Sopa de tortilla,1,70.00
+2026-10-30 09:59,Agua de horchata,2,30.00
+2026-10-30 12:48,Cochinita pibil,2,125.00
+2026-10-30 13:00,Tacos de suadero,1,24.00
+2026-10-30 13:42,Pozole rojo,2,110.00
+2026-10-30 14:10,Enchiladas suizas,2,120.00
+2026-10-30 14:13,Agua de jamaica,1,30.00
+2026-10-30 14:18,Agua de horchata,2,30.00
+2026-10-30 15:51,Pozole rojo,2,110.00
+2026-10-30 16:04,Tacos de suadero,2,24.00
+2026-10-30 19:36,Mole poblano,3,135.00
+2026-10-30 19:39,Cochinita pibil,2,125.00
+2026-10-31 09:58,Tacos al pastor,1,25.50
+2026-10-31 10:13,Chilaquiles verdes,1,95.00
+2026-10-31 11:01,Cafe de olla,1,35.00
+2026-10-31 11:54,Tacos al pastor,2,25.50
+2026-10-31 12:16,Chilaquiles verdes,1,95.00
+2026-10-31 13:21,Agua de jamaica,1,30.00
+2026-10-31 13:25,Refresco,1,28.00
+2026-10-31 13:46,Cafe de olla,2,35.00
+2026-10-31 14:05,Enchiladas suizas,1,120.00
+2026-10-31 14:25,Agua de horchata,2,30.00
+2026-10-31 14:27,Tacos de suadero,1,24.00
+2026-10-31 16:33,Torta de milanesa,3,85.00
+2026-10-31 17:02,Quesadillas de flor de calabaza,4,55.00
+2026-10-31 18:32,Sopa de tortilla,2,70.00
+2026-10-31 21:29,Refresco,4,28.00
